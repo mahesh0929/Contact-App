@@ -13,4 +13,5 @@ public class ContactsApplication {
 		SpringApplication.run(ContactsApplication.class, args);
 		//Syste.out.println();
 	}
+	
 }
